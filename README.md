@@ -1,7 +1,6 @@
 - Hey, it's Bean
-- I’m interested in music, programming, and physics
-- Currently learning audio programming with C++ for a project
-- Social links to be added soon.. (im on my phone rn so yeah)
+- I’m into music and programming
+- Social links to be added soon
 
 <!---
 beano-69/beano-69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
