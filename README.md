@@ -1,6 +1,6 @@
 ## 👋
 
-I'm Bean! I'm into computer graphics and color science, physics and simulations, and music production.
+I'm into computer graphics and color science, physics and simulations, and music production.
 
 🟢 [Blog](https://bean-mhm.github.io/)
 
