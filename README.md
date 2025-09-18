@@ -1,4 +1,4 @@
-## 👋
+# 👋
 
 I'm into computer graphics and color science, physics and simulations, and music production.
 
@@ -6,10 +6,12 @@ I'm into computer graphics and color science, physics and simulations, and music
 
 ✍🏻 [Blog](https://bean-mhm.github.io/)
 
-🍵 [Support Me! (Ko-fi)](https://ko-fi.com/bean_mhm)
-
 📺 [YouTube](https://www.youtube.com/@bean_mhm)
 
 🌌 [Shadertoy](https://www.shadertoy.com/user/beans_please)
 
 📸 [Instagram](https://www.instagram.com/bean.mhm)
+
+# 🍉
+
+<a href='https://ko-fi.com/E1E81LFRKY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
