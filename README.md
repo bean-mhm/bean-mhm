@@ -12,6 +12,6 @@ I'm into computer graphics and color science, physics and simulations, and music
 
 📸 [Instagram](https://www.instagram.com/bean.mhm)
 
-# 🍉
+# 
 
-<a href='https://ko-fi.com/E1E81LFRKY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/E1E81LFRKY' target='_blank'><img height='42' style='border:0px;height:42px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
